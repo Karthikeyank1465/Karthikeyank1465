@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me:
-I’m a **Senior Test Engineer** at [Qualitrix Technology Pvt. Ltd.](https://www.qualitrix.com) since **December 7th**. I am leading the client project **EMotorad**, working on the **Amigo_Nxt** app for both Android and iOS platforms. My role involves contributing to every aspect of the project, ensuring **high-quality delivery** through a combination of **manual and automated testing**.
+I’m a **Senior Test Engineer** at [Qualitrix Technology Pvt. Ltd.](https://www.qualitrix.com) since **December 7th** 2024. I am leading the client project **EMotorad**, working on the **Amigo_Nxt** app for both Android and iOS platforms. My role involves contributing to every aspect of the project, ensuring **high-quality delivery** through a combination of **manual and automated testing**.
 
 ## 🎯 Key Skills:
 - **Functional & Non-Functional Testing** (Frontend & Backend)
