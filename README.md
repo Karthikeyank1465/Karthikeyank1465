@@ -18,7 +18,7 @@ I’m a **Senior Test Engineer** at [Qualitrix Technology Pvt. Ltd.](https://www
 | 💡 **Sanity & Regression Tests** | 100+ builds tested  | Manual, Automated                      |
 | 🐛 **Bugs Reported**        | 450+ raised  | Jira                                  |
 | 🔧 **Bugs Fixed**           | 420+ fixed   | Jira                                  |
-| ⚙️ **Automation Framework** | In Progress  | Selenium, Java                        |
+| ⚙️ **Automation Framework** | In Progress  | Appium ,Selenium, Java                      |
 | 📈 **Load Testing**         | Completed    | Apache JMeter                         |
 | 🛠️ **Backend Testing**      | Completed    | Postman, AWS S3, EC2, PostgreSQL, Cassandra |
 
